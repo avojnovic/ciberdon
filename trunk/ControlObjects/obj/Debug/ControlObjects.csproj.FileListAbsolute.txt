@@ -1,0 +1,12 @@
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\ControlObjects.dll.config
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\ControlObjects.dll
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\ControlObjects.pdb
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\BussinesObjects.dll
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\EntityFramework.dll
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\BussinesObjects.pdb
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\EntityFramework.xml
+C:\Projects\Ciberdon\ControlObjects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\Ciberdon\ControlObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Ciberdon\ControlObjects\obj\Debug\ControlObjects.dll
+C:\Projects\Ciberdon\ControlObjects\obj\Debug\ControlObjects.pdb

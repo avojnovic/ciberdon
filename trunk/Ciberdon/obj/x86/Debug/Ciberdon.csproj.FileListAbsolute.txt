@@ -18,3 +18,7 @@ C:\Projects\Ciberdon\Ciberdon\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Projects\Ciberdon\Ciberdon\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Projects\Ciberdon\Ciberdon\obj\x86\Debug\Ciberdon.exe
 C:\Projects\Ciberdon\Ciberdon\obj\x86\Debug\Ciberdon.pdb
+C:\Projects\Ciberdon\Ciberdon\obj\x86\Debug\Login.baml
+C:\Projects\Ciberdon\Ciberdon\obj\x86\Debug\Login.g.cs
+C:\Projects\Ciberdon\Ciberdon\bin\Debug\ControlObjects.dll
+C:\Projects\Ciberdon\Ciberdon\bin\Debug\ControlObjects.pdb
