@@ -21,10 +21,13 @@ namespace Ciberdon
     /// </summary>
     public partial class MainWindow : Window
     {
+        public User _user;
+        private List<Product> _products;
         public MainWindow()
         {
             InitializeComponent();
-      
+            _products = ProductManager.Get().ToList();
+
         }
 
 
@@ -41,7 +44,24 @@ namespace Ciberdon
 
             var context = new CiberdonDbContext();
             context.User.Add(user);
+
+
+            var product = new Product
+            {
+                
+               
+                Name = "Producto1",
+
+            };
+
+
+
             context.SaveChanges();
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }
