@@ -1,0 +1,6 @@
+C:\Projects\Ciberdon\BussinesObjects\bin\Debug\BussinesObjects.dll.config
+C:\Projects\Ciberdon\BussinesObjects\bin\Debug\BussinesObjects.dll
+C:\Projects\Ciberdon\BussinesObjects\bin\Debug\BussinesObjects.pdb
+C:\Projects\Ciberdon\BussinesObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Ciberdon\BussinesObjects\obj\Debug\BussinesObjects.dll
+C:\Projects\Ciberdon\BussinesObjects\obj\Debug\BussinesObjects.pdb
